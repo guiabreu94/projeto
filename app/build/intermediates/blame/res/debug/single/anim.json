@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\anim\\abc_slide_out_top.xml"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3e46f347c9fa0a0bfad777c5509eab9c5961836c\\output\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3e46f347c9fa0a0bfad777c5509eab9c5961836c\\output\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3fbd09f47af452b70996147e09d614aca66ec428\\output\\res\\color\\wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\7d22cd7d316aa37fb60b56d2fccb07c0ead6b3fb\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\3fbd09f47af452b70996147e09d614aca66ec428\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sat Sep 09 14:10:14 BRT 2017
+base.0=D\:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6f791dcb7123d9081d77aacc7ba48dd080563896
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f98a45b01355c8c9b626d09c3edfdf4bdbd640ba\\classes.dex
+base.1=D\:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f98a45b01355c8c9b626d09c3edfdf4bdbd640ba
+file.0=D\:\\android\\augmented-reality-example-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6f791dcb7123d9081d77aacc7ba48dd080563896\\classes.dex
